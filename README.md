@@ -1,27 +1,5 @@
-# Proximal Policy Optimization applied to Algorithmic Trading
+# Deep-Reinforcement-Learning-to-Algorithmic-Trading
 Project based on the framework developed by T. Théate and D. Ernst, modified to implement a PPO.
-
-
-# Dependencies
-
-The dependencies are listed in the text file "requirements.txt":
-* Python 3.7.4
-* Pytorch 1.5.0
-* Tensorboard
-* Gym
-* Numpy
-* Pandas
-* Matplotlib
-* Scipy
-* Seaborn
-* Statsmodels
-* Requests
-* Pandas-datareader
-* TQDM
-* Tabulate
-
-
-
 
 # Usage
 
